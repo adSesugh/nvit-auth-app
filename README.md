@@ -12,6 +12,7 @@ Task to create user authentication and user profile page
 
 - Laravel
 - PGSQL Database
+- React via Inertia.js
 
 ### Usage
 Follow the step below to setup the app for testing in your local PC;
@@ -41,4 +42,8 @@ The following must have been installed and configure on your PC;
 2. composer
 3. Database of choice -- [`mysql`, `postgres`, `mssql`] or an sqlite db file.
 4. yarn or npm (package manager tools)
+
+#### Screenshots
+1. SignUp Form
+    ![SignUp Form](https://github.com/adSesugh/nvit-auth-app/screenshots/signup.png, "SignUp Form")
 
