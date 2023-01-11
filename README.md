@@ -13,6 +13,7 @@ Task to create user authentication and user profile page
 - Laravel
 - PGSQL Database
 - React via Inertia.js
+- Tailwindcss
 
 ### Usage
 Follow the step below to setup the app for testing in your local PC;
