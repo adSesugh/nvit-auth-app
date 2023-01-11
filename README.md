@@ -44,6 +44,9 @@ The following must have been installed and configure on your PC;
 4. yarn or npm (package manager tools)
 
 #### Screenshots
-1. SignUp Form
+1. SignUp Page
     ![SignUp Form](/screenshots/signup.png "SignUp Form")
+
+2. Login Page
+    ![SignIn Form](/screenshots/signin.png "SignIn Form")
 
