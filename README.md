@@ -45,5 +45,5 @@ The following must have been installed and configure on your PC;
 
 #### Screenshots
 1. SignUp Form
-    ![SignUp Form](/screenshots/signup.png, "SignUp Form")
+    ![SignUp Form](/screenshots/signup.png "SignUp Form")
 
