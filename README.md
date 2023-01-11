@@ -8,12 +8,13 @@ Task to create user authentication and user profile page
 3. Handle user forgot password, 
 4. User profile page
 
-### Tech stack
+### Tools
 
 - Laravel
-- PGSQL Database
+- PostgreSQL Database
 - React via Inertia.js
 - Tailwindcss
+- Composer
 
 ### Usage
 Follow the step below to setup the app for testing in your local PC;
